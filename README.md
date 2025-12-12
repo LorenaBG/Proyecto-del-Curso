@@ -15,13 +15,13 @@
 ## MODO LÓGICO
   ### Servidores
   #### Dominio
-      -Usuarios y Grupos
-      -Perfiles Móviles
-      -Carpetas
+    -Usuarios y Grupos
+    -Perfiles Móviles
+    -Carpetas
       
 #### DHCP Y DNS
- 	 -Redes y subredes
-	 -Zonas
+ 	-Redes y subredes
+	-Zonas
       	-Zona Primaria
            -Inversa/Directa
            -Reenviadores
