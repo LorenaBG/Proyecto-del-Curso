@@ -1,13 +1,13 @@
 # Proyecto-del-Curso
 
 MODO FÍSICO
-  Plano
+  -Plano
     -Estructura de cableado
     -Componentes Intermedios
     -Componentes Finales
     -Servidores
 
-  Presupuesto
+  -Presupuesto
     -Selección Componentes
     -Inventario
 
@@ -18,7 +18,7 @@ MODO LÓGICO
       -Perfiles Móviles
       -Carpetas
       
-    DHCP Y DNS
+    -DHCP Y DNS
       -Redes y subredes
       -Zonas
         -Zona Primaria
@@ -27,7 +27,7 @@ MODO LÓGICO
           -Zona Stub
           -Transferencia de zonas
           
-    WEB
+    -WEB
       -Configuración
         -BitNami
       -Aplicación
