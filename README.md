@@ -1,34 +1,35 @@
 # Proyecto-del-Curso
 
-MODO FÍSICO
-  -Plano
+
+## MODO FÍSICO
+  ### Plano
     -Estructura de cableado
     -Componentes Intermedios
     -Componentes Finales
     -Servidores
 
-  -Presupuesto
+  ### Presupuesto
     -Selección Componentes
     -Inventario
 
-MODO LÓGICO
-  -Servidores
-    -Dominio
+## MODO LÓGICO
+  ### Servidores
+  #### Dominio
       -Usuarios y Grupos
       -Perfiles Móviles
       -Carpetas
       
-    -DHCP Y DNS
-      -Redes y subredes
-      -Zonas
-        -Zona Primaria
-          -Inversa/Directa
-          -Reenviadores
-          -Zona Stub
-          -Transferencia de zonas
+#### DHCP Y DNS
+ 	 -Redes y subredes
+	 -Zonas
+      	-Zona Primaria
+           -Inversa/Directa
+           -Reenviadores
+           -Zona Stub
+           -Transferencia de zonas
           
-    -WEB
-      -Configuración
+#### WEB
+    -Configuración
         -BitNami
-      -Aplicación
+    -Aplicación
         -EyeOS
