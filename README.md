@@ -6,7 +6,7 @@
     -Estructura de cableado
     -Componentes Intermedios
     -Componentes Finales
-    -Servidores
+    -Sala Servidores
 
   ### Presupuesto
     -Selección Componentes
